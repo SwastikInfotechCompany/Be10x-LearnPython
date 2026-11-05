@@ -1,0 +1,193 @@
+{
+  "benchmark": {
+    "num_employees": 1000000,
+    "list_time_ms": 94.8,
+    "np_time_ms": 5.31,
+    "speedup_factor": 17.9,
+    "time_saved_pct": 94.4,
+    "list_memory_mb": 30.52,
+    "np_memory_mb": 7.63
+  },
+  "architecture_audit": {
+    "1D_Raw_Shape": [
+      60
+    ],
+    "1D_NDIM": 1,
+    "2D_Reshaped_Shape": [
+      5,
+      12
+    ],
+    "2D_NDIM": 2,
+    "Total_Elements_Size": 60,
+    "Data_Type": "int32",
+    "Item_Size_Bytes": 4,
+    "Total_Buffer_Nbytes": 240,
+    "Strides": [
+      48,
+      4
+    ],
+    "Is_C_Contiguous": true
+  },
+  "warehouse_summary": {
+    "warehouses": [
+      "WH-North-US",
+      "WH-East-US",
+      "WH-West-US",
+      "WH-Central-EU",
+      "WH-APAC-HQ"
+    ],
+    "categories": [
+      "Laptops",
+      "Smartphones",
+      "Smartwatches",
+      "4K-TVs",
+      "Road-Bikes",
+      "Running-Shoes",
+      "Gym-Weights",
+      "Camp-Tents",
+      "Leather-Jackets",
+      "Denim-Jeans",
+      "Espresso-Machines",
+      "Robotic-Vacuums"
+    ],
+    "stock_matrix": [
+      [
+        140,
+        209,
+        110,
+        227,
+        338,
+        370,
+        385,
+        360,
+        444,
+        129,
+        198,
+        112
+      ],
+      [
+        110,
+        175,
+        429,
+        444,
+        357,
+        66,
+        115,
+        117,
+        110,
+        265,
+        238,
+        227
+      ],
+      [
+        448,
+        164,
+        316,
+        382,
+        51,
+        161,
+        235,
+        270,
+        281,
+        95,
+        54,
+        144
+      ],
+      [
+        326,
+        437,
+        209,
+        389,
+        335,
+        109,
+        80,
+        299,
+        376,
+        290,
+        129,
+        178
+      ],
+      [
+        198,
+        251,
+        84,
+        443,
+        372,
+        303,
+        256,
+        155,
+        236,
+        233,
+        118,
+        374
+      ]
+    ],
+    "stock_per_warehouse_sum": [
+      3022,
+      2653,
+      2601,
+      3157,
+      3023
+    ],
+    "stock_per_warehouse_avg": [
+      251.8,
+      221.1,
+      216.8,
+      263.1,
+      251.9
+    ],
+    "stock_per_warehouse_max": [
+      444,
+      444,
+      448,
+      437,
+      443
+    ],
+    "stock_per_category_sum": [
+      1222,
+      1236,
+      1148,
+      1885,
+      1453,
+      1009,
+      1071,
+      1201,
+      1447,
+      1012,
+      737,
+      1035
+    ],
+    "stock_per_category_avg": [
+      244.4,
+      247.2,
+      229.6,
+      377.0,
+      290.6,
+      201.8,
+      214.2,
+      240.2,
+      289.4,
+      202.4,
+      147.4,
+      207.0
+    ],
+    "stock_per_category_max": [
+      448,
+      437,
+      429,
+      444,
+      372,
+      370,
+      385,
+      360,
+      444,
+      290,
+      238,
+      374
+    ],
+    "global_total_units": 14456,
+    "global_avg_units": 240.9,
+    "busiest_warehouse": "WH-Central-EU",
+    "highest_stock_category": "4K-TVs"
+  }
+}

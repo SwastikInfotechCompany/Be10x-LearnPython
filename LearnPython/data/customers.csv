@@ -1,0 +1,601 @@
+CustomerID,CustomerName,Email,City,Region,SignupDate,AgeGroup
+CUST-1000,Aarav Brown,aarav.brown95@example.com,New York,North America,2023-10-09,26-35
+CUST-1001,Olivia Mueller,olivia.mueller12@example.com,San Francisco,North America,2024-08-27,51-65
+CUST-1002,William Davis,william.davis92@example.com,Sydney,Asia-Pacific,2024-09-08,18-25
+CUST-1003,Aarav Mueller,aarav.mueller1@example.com,Tokyo,Asia-Pacific,2023-08-14,51-65
+CUST-1004,Ava Taylor,ava.taylor98@example.com,Paris,Europe,2023-10-12,26-35
+CUST-1005,Ethan Brown,ethan.brown45@example.com,San Francisco,North America,2024-01-25,18-25
+CUST-1006,Evelyn Rodriguez,evelyn.rodriguez49@example.com,New York,North America,2024-04-15,65+
+CUST-1007,Liam Mueller,liam.mueller47@example.com,Berlin,Europe,2024-10-05,65+
+CUST-1008,Lucas Miller,lucas.miller99@example.com,Sao Paulo,Latin America,2023-03-13,18-25
+CUST-1009,Isabella Williams,isabella.williams82@example.com,London,Europe,2023-04-14,51-65
+CUST-1010,Mia Garcia,mia.garcia90@example.com,Paris,Europe,2023-12-30,26-35
+CUST-1011,Priya Williams,priya.williams32@example.com,Toronto,North America,2024-10-12,26-35
+CUST-1012,Ava Thomas,ava.thomas42@example.com,Tokyo,Asia-Pacific,2023-10-04,65+
+CUST-1013,Emma Davis,emma.davis28@example.com,New York,North America,2023-11-20,51-65
+CUST-1014,Lucas Hernandez,lucas.hernandez83@example.com,London,Europe,2024-11-02,51-65
+CUST-1015,Daniel Jones,daniel.jones69@example.com,Berlin,Europe,2023-05-23,26-35
+CUST-1016,Mason Dubois,mason.dubois18@example.com,Tokyo,Asia-Pacific,2024-08-20,51-65
+CUST-1017,Henry Patel,henry.patel21@example.com,San Francisco,North America,2023-02-18,18-25
+CUST-1018,Priya Taylor,priya.taylor60@example.com,Toronto,North America,2023-03-07,51-65
+CUST-1019,Henry Rodriguez,henry.rodriguez69@example.com,Sydney,Asia-Pacific,2023-01-12,18-25
+CUST-1020,Mason Hernandez,mason.hernandez1@example.com,San Francisco,North America,2023-10-28,51-65
+CUST-1021,Elena Rodriguez,elena.rodriguez81@example.com,Sydney,Asia-Pacific,2023-07-02,65+
+CUST-1022,Isabella Tanaka,isabella.tanaka21@example.com,Toronto,North America,2023-07-23,26-35
+CUST-1023,Harper Tanaka,harper.tanaka15@example.com,New York,North America,2024-09-05,36-50
+CUST-1024,Mia Martinez,mia.martinez11@example.com,London,Europe,2023-03-01,26-35
+CUST-1025,Liam Patel,liam.patel61@example.com,San Francisco,North America,2024-06-29,26-35
+CUST-1026,Harper Garcia,harper.garcia28@example.com,Berlin,Europe,2024-06-24,65+
+CUST-1027,Harper Miller,harper.miller84@example.com,Sao Paulo,Latin America,2023-11-16,51-65
+CUST-1028,Mia Thomas,mia.thomas9@example.com,Sydney,Asia-Pacific,2024-04-07,18-25
+CUST-1029,Ethan Smith,ethan.smith1@example.com,Toronto,North America,2024-07-21,26-35
+CUST-1030,Liam Johnson,liam.johnson10@example.com,London,Europe,2023-03-11,18-25
+CUST-1031,Henry Davis,henry.davis17@example.com,Berlin,Europe,2024-11-16,51-65
+CUST-1032,Elena Dubois,elena.dubois53@example.com,Toronto,North America,2024-04-29,26-35
+CUST-1033,William Brown,william.brown53@example.com,San Francisco,North America,2024-11-05,51-65
+CUST-1034,Daniel Johnson,daniel.johnson94@example.com,Mumbai,Asia-Pacific,2024-10-31,18-25
+CUST-1035,Ethan Brown,ethan.brown18@example.com,London,Europe,2023-07-16,26-35
+CUST-1036,Charlotte Garcia,charlotte.garcia10@example.com,Berlin,Europe,2024-04-18,26-35
+CUST-1037,Daniel Mueller,daniel.mueller12@example.com,San Francisco,North America,2023-02-21,65+
+CUST-1038,Sophia Garcia,sophia.garcia52@example.com,Tokyo,Asia-Pacific,2024-05-12,51-65
+CUST-1039,Emma Garcia,emma.garcia59@example.com,Tokyo,Asia-Pacific,2023-01-03,51-65
+CUST-1040,Isabella Taylor,isabella.taylor38@example.com,Sao Paulo,Latin America,2024-07-23,51-65
+CUST-1041,William Johnson,william.johnson8@example.com,Toronto,North America,2024-07-09,18-25
+CUST-1042,Emma Dubois,emma.dubois66@example.com,Singapore,Asia-Pacific,2024-05-29,65+
+CUST-1043,Liam Garcia,liam.garcia31@example.com,San Francisco,North America,2024-09-01,18-25
+CUST-1044,Alexander Brown,alexander.brown80@example.com,Toronto,North America,2023-09-10,65+
+CUST-1045,Liam Taylor,liam.taylor34@example.com,Mumbai,Asia-Pacific,2024-08-20,65+
+CUST-1046,William Hernandez,william.hernandez83@example.com,London,Europe,2023-09-29,51-65
+CUST-1047,Isabella Thomas,isabella.thomas73@example.com,Paris,Europe,2023-03-16,18-25
+CUST-1048,Olivia Williams,olivia.williams45@example.com,Sydney,Asia-Pacific,2023-08-07,65+
+CUST-1049,Liam Davis,liam.davis70@example.com,Paris,Europe,2023-10-19,26-35
+CUST-1050,Kenji Martinez,,Toronto,North America,2024-10-31,65+
+CUST-1051,Harper Martinez,harper.martinez14@example.com,Mumbai,Asia-Pacific,2023-04-17,26-35
+CUST-1052,Elena Mueller,elena.mueller92@example.com,Chicago,North America,2023-10-06,36-50
+CUST-1053,Ethan Miller,ethan.miller33@example.com,Mumbai,Asia-Pacific,2024-10-11,36-50
+CUST-1054,Emma Williams,emma.williams43@example.com,Mumbai,Asia-Pacific,2024-03-09,36-50
+CUST-1055,Noah Rodriguez,noah.rodriguez72@example.com,Chicago,North America,2024-03-28,65+
+CUST-1056,James Brown,james.brown48@example.com,San Francisco,North America,2023-06-02,65+
+CUST-1057,Lucas Mueller,lucas.mueller47@example.com,Chicago,North America,2024-03-16,26-35
+CUST-1058,Emma Wilson,emma.wilson46@example.com,London,Europe,2024-11-29,26-35
+CUST-1059,Harper Taylor,harper.taylor23@example.com,Toronto,North America,2023-06-08,26-35
+CUST-1060,Charlotte Smith,charlotte.smith95@example.com,Chicago,North America,2023-12-07,51-65
+CUST-1061,Sophia Rodriguez,sophia.rodriguez61@example.com,Chicago,North America,2023-04-21,51-65
+CUST-1062,Sophia Miller,sophia.miller30@example.com,Singapore,Asia-Pacific,2023-12-25,36-50
+CUST-1063,Sophia Smith,sophia.smith9@example.com,Mumbai,Asia-Pacific,2023-07-17,51-65
+CUST-1064,Mason Wilson,mason.wilson69@example.com,Mumbai,Asia-Pacific,2024-06-05,51-65
+CUST-1065,Ethan Smith,ethan.smith34@example.com,San Francisco,North America,2023-09-25,26-35
+CUST-1066,Emma Brown,emma.brown41@example.com,Toronto,North America,2024-03-20,36-50
+CUST-1067,Charlotte Silva,charlotte.silva25@example.com,Sydney,Asia-Pacific,2023-04-29,51-65
+CUST-1068,Mason Johnson,mason.johnson69@example.com,Sao Paulo,Latin America,2024-03-22,18-25
+CUST-1069,Priya Miller,priya.miller43@example.com,Paris,Europe,2024-03-17,18-25
+CUST-1070,Evelyn Hernandez,evelyn.hernandez86@example.com,Mumbai,Asia-Pacific,2023-05-08,36-50
+CUST-1071,Charlotte Hernandez,charlotte.hernandez54@example.com,Tokyo,Asia-Pacific,2023-10-30,65+
+CUST-1072,Priya Anderson,priya.anderson52@example.com,Mumbai,Asia-Pacific,2023-06-28,65+
+CUST-1073,Harper Smith,harper.smith75@example.com,Berlin,Europe,2023-10-21,26-35
+CUST-1074,Evelyn Hernandez,evelyn.hernandez66@example.com,Singapore,Asia-Pacific,2024-03-28,51-65
+CUST-1075,Amelia Garcia,amelia.garcia82@example.com,Mumbai,Asia-Pacific,2023-03-28,36-50
+CUST-1076,Evelyn Hernandez,evelyn.hernandez26@example.com,San Francisco,North America,2023-08-29,36-50
+CUST-1077,Noah Smith,noah.smith99@example.com,New York,North America,2023-09-08,51-65
+CUST-1078,Liam Thomas,liam.thomas90@example.com,Tokyo,Asia-Pacific,2024-10-06,65+
+CUST-1079,Alexander Patel,alexander.patel1@example.com,Tokyo,Asia-Pacific,2023-09-07,26-35
+CUST-1080,Olivia Taylor,olivia.taylor72@example.com,London,Europe,2023-06-30,65+
+CUST-1081,Sophia Brown,sophia.brown72@example.com,Singapore,Asia-Pacific,2023-05-17,51-65
+CUST-1082,Evelyn Hernandez,evelyn.hernandez71@example.com,Singapore,Asia-Pacific,2024-09-19,65+
+CUST-1083,Daniel Garcia,daniel.garcia32@example.com,Sao Paulo,Latin America,2024-05-01,51-65
+CUST-1084,Aarav Rodriguez,aarav.rodriguez10@example.com,Sydney,Asia-Pacific,2024-05-11,26-35
+CUST-1085,Kenji Martinez,kenji.martinez70@example.com,London,Europe,2023-10-06,36-50
+CUST-1086,Liam Jones,liam.jones91@example.com,Chicago,North America,2023-08-25,51-65
+CUST-1087,William Williams,william.williams54@example.com,Tokyo,Asia-Pacific,2024-02-22,36-50
+CUST-1088,Emma Miller,emma.miller3@example.com,Tokyo,Asia-Pacific,2024-02-03,65+
+CUST-1089,Lucas Anderson,lucas.anderson50@example.com,Singapore,Asia-Pacific,2023-01-07,36-50
+CUST-1090,Charlotte Mueller,charlotte.mueller63@example.com,Sao Paulo,Latin America,2024-07-13,65+
+CUST-1091,Sophia Rodriguez,sophia.rodriguez86@example.com,Tokyo,Asia-Pacific,2024-05-12,18-25
+CUST-1092,Priya Anderson,priya.anderson80@example.com,Sao Paulo,Latin America,2023-06-19,51-65
+CUST-1093,Harper Smith,harper.smith11@example.com,Tokyo,Asia-Pacific,2024-08-29,65+
+CUST-1094,Aarav Taylor,aarav.taylor49@example.com,Chicago,North America,2024-04-17,26-35
+CUST-1095,Ethan Miller,ethan.miller49@example.com,Singapore,Asia-Pacific,2023-12-01,36-50
+CUST-1096,Mason Taylor,,Berlin,Europe,2023-03-25,51-65
+CUST-1097,Harper Johnson,harper.johnson84@example.com,Paris,Europe,2023-08-18,18-25
+CUST-1098,Emma Smith,emma.smith31@example.com,London,Europe,2023-07-24,18-25
+CUST-1099,Noah Patel,noah.patel60@example.com,Mumbai,Asia-Pacific,2023-04-28,65+
+CUST-1100,Kenji Rodriguez,kenji.rodriguez96@example.com,Paris,Europe,2023-06-21,65+
+CUST-1101,Kenji Brown,kenji.brown40@example.com,Chicago,North America,2023-11-15,18-25
+CUST-1102,Lucas Anderson,lucas.anderson81@example.com,Tokyo,Asia-Pacific,2023-07-23,18-25
+CUST-1103,Sophia Brown,sophia.brown73@example.com,Sao Paulo,Latin America,2023-11-05,65+
+CUST-1104,Emma Wilson,emma.wilson83@example.com,Sydney,Asia-Pacific,2024-03-14,36-50
+CUST-1105,Ethan Smith,ethan.smith47@example.com,Tokyo,Asia-Pacific,2024-05-16,18-25
+CUST-1106,Aarav Thomas,aarav.thomas67@example.com,Sao Paulo,Latin America,2023-06-06,51-65
+CUST-1107,Aarav Rodriguez,aarav.rodriguez94@example.com,Toronto,North America,2024-07-05,51-65
+CUST-1108,Lucas Rodriguez,lucas.rodriguez58@example.com,Paris,Europe,2023-09-09,18-25
+CUST-1109,Sophia Thomas,sophia.thomas64@example.com,Toronto,North America,2024-09-16,51-65
+CUST-1110,Ethan Garcia,ethan.garcia44@example.com,Singapore,Asia-Pacific,2023-08-06,36-50
+CUST-1111,Mason Silva,,Sao Paulo,Latin America,2023-10-10,65+
+CUST-1112,William Williams,william.williams31@example.com,London,Europe,2024-02-21,51-65
+CUST-1113,Kenji Patel,kenji.patel12@example.com,Mumbai,Asia-Pacific,2024-05-17,51-65
+CUST-1114,Isabella Davis,isabella.davis48@example.com,Tokyo,Asia-Pacific,2023-09-07,36-50
+CUST-1115,Amelia Mueller,amelia.mueller71@example.com,Sydney,Asia-Pacific,2023-12-19,51-65
+CUST-1116,Ethan Wilson,ethan.wilson30@example.com,Sao Paulo,Latin America,2024-04-09,36-50
+CUST-1117,Olivia Miller,olivia.miller89@example.com,Paris,Europe,2023-05-03,65+
+CUST-1118,Ava Miller,ava.miller98@example.com,London,Europe,2024-05-10,36-50
+CUST-1119,Henry Silva,henry.silva47@example.com,Berlin,Europe,2023-04-13,26-35
+CUST-1120,Ava Martinez,ava.martinez7@example.com,New York,North America,2024-06-30,26-35
+CUST-1121,Harper Martinez,harper.martinez2@example.com,Sao Paulo,Latin America,2023-05-10,51-65
+CUST-1122,Lucas Martinez,lucas.martinez7@example.com,Singapore,Asia-Pacific,2024-05-05,51-65
+CUST-1123,Mason Patel,mason.patel74@example.com,San Francisco,North America,2023-03-08,51-65
+CUST-1124,Aarav Johnson,aarav.johnson11@example.com,Chicago,North America,2023-06-02,65+
+CUST-1125,Sophia Brown,sophia.brown80@example.com,Sydney,Asia-Pacific,2024-03-02,65+
+CUST-1126,Sophia Tanaka,sophia.tanaka76@example.com,Tokyo,Asia-Pacific,2024-04-06,51-65
+CUST-1127,Charlotte Martinez,charlotte.martinez95@example.com,Toronto,North America,2024-09-27,18-25
+CUST-1128,Olivia Miller,olivia.miller21@example.com,Mumbai,Asia-Pacific,2023-08-05,36-50
+CUST-1129,Sophia Garcia,,Sydney,Asia-Pacific,2023-03-18,26-35
+CUST-1130,Daniel Silva,daniel.silva91@example.com,Singapore,Asia-Pacific,2023-10-26,18-25
+CUST-1131,Isabella Thomas,isabella.thomas81@example.com,San Francisco,North America,2023-08-28,36-50
+CUST-1132,Lucas Miller,lucas.miller20@example.com,Tokyo,Asia-Pacific,2023-04-28,65+
+CUST-1133,Mason Jones,mason.jones77@example.com,San Francisco,North America,2023-03-03,26-35
+CUST-1134,Elena Dubois,elena.dubois39@example.com,Berlin,Europe,2024-03-25,18-25
+CUST-1135,Kenji Anderson,kenji.anderson11@example.com,Berlin,Europe,2024-05-27,65+
+CUST-1136,Evelyn Johnson,evelyn.johnson12@example.com,Tokyo,Asia-Pacific,2023-11-27,65+
+CUST-1137,Sophia Dubois,sophia.dubois98@example.com,Toronto,North America,2023-01-22,36-50
+CUST-1138,Ava Patel,ava.patel24@example.com,Sydney,Asia-Pacific,2024-10-29,51-65
+CUST-1139,Lucas Taylor,lucas.taylor53@example.com,Mumbai,Asia-Pacific,2024-05-18,18-25
+CUST-1140,Ethan Hernandez,ethan.hernandez89@example.com,Mumbai,Asia-Pacific,2023-04-18,26-35
+CUST-1141,Amelia Martinez,amelia.martinez12@example.com,Mumbai,Asia-Pacific,2024-02-15,65+
+CUST-1142,Ethan Rodriguez,ethan.rodriguez1@example.com,Paris,Europe,2023-04-29,51-65
+CUST-1143,Priya Mueller,priya.mueller47@example.com,Singapore,Asia-Pacific,2024-02-28,18-25
+CUST-1144,Evelyn Patel,evelyn.patel71@example.com,Mumbai,Asia-Pacific,2024-03-28,18-25
+CUST-1145,Noah Martinez,,Singapore,Asia-Pacific,2024-05-11,18-25
+CUST-1146,Aarav Silva,aarav.silva71@example.com,London,Europe,2023-06-12,36-50
+CUST-1147,Charlotte Williams,charlotte.williams83@example.com,London,Europe,2023-04-27,51-65
+CUST-1148,Noah Patel,noah.patel54@example.com,Sao Paulo,Latin America,2023-10-26,65+
+CUST-1149,Amelia Patel,amelia.patel25@example.com,London,Europe,2024-04-12,65+
+CUST-1150,Evelyn Tanaka,evelyn.tanaka54@example.com,Sao Paulo,Latin America,2023-05-20,18-25
+CUST-1151,Ethan Tanaka,ethan.tanaka76@example.com,Berlin,Europe,2023-01-03,36-50
+CUST-1152,Lucas Patel,lucas.patel43@example.com,Chicago,North America,2024-04-02,65+
+CUST-1153,Harper Mueller,harper.mueller90@example.com,Tokyo,Asia-Pacific,2024-04-11,36-50
+CUST-1154,Sophia Dubois,sophia.dubois96@example.com,Tokyo,Asia-Pacific,2023-08-28,51-65
+CUST-1155,Amelia Anderson,amelia.anderson5@example.com,Tokyo,Asia-Pacific,2024-11-10,26-35
+CUST-1156,Noah Tanaka,noah.tanaka57@example.com,Toronto,North America,2023-12-06,18-25
+CUST-1157,Olivia Tanaka,olivia.tanaka84@example.com,Singapore,Asia-Pacific,2023-01-16,26-35
+CUST-1158,Noah Williams,noah.williams51@example.com,Singapore,Asia-Pacific,2023-09-29,36-50
+CUST-1159,Aarav Williams,aarav.williams41@example.com,Paris,Europe,2024-11-21,65+
+CUST-1160,Aarav Patel,aarav.patel81@example.com,Sydney,Asia-Pacific,2023-02-06,65+
+CUST-1161,Priya Martinez,priya.martinez98@example.com,London,Europe,2023-04-03,51-65
+CUST-1162,Aarav Brown,aarav.brown6@example.com,Singapore,Asia-Pacific,2023-06-20,36-50
+CUST-1163,Ethan Johnson,ethan.johnson32@example.com,Berlin,Europe,2024-01-03,36-50
+CUST-1164,Henry Taylor,henry.taylor11@example.com,Toronto,North America,2024-11-29,26-35
+CUST-1165,Evelyn Anderson,evelyn.anderson75@example.com,Toronto,North America,2024-11-30,26-35
+CUST-1166,Noah Davis,noah.davis86@example.com,Singapore,Asia-Pacific,2024-10-15,36-50
+CUST-1167,James Thomas,james.thomas57@example.com,Berlin,Europe,2024-11-24,65+
+CUST-1168,Mia Dubois,mia.dubois59@example.com,Berlin,Europe,2024-10-16,51-65
+CUST-1169,Isabella Miller,isabella.miller74@example.com,Tokyo,Asia-Pacific,2024-05-09,18-25
+CUST-1170,Mia Dubois,mia.dubois85@example.com,Berlin,Europe,2023-10-30,18-25
+CUST-1171,Alexander Rodriguez,alexander.rodriguez96@example.com,New York,North America,2024-08-02,18-25
+CUST-1172,Amelia Martinez,amelia.martinez25@example.com,London,Europe,2024-09-13,36-50
+CUST-1173,Evelyn Rodriguez,evelyn.rodriguez81@example.com,Mumbai,Asia-Pacific,2024-11-06,26-35
+CUST-1174,Aarav Johnson,aarav.johnson94@example.com,Berlin,Europe,2024-03-27,18-25
+CUST-1175,Noah Williams,noah.williams17@example.com,Berlin,Europe,2023-12-01,51-65
+CUST-1176,Harper Wilson,harper.wilson33@example.com,Sydney,Asia-Pacific,2024-05-28,36-50
+CUST-1177,Amelia Martinez,amelia.martinez10@example.com,Sao Paulo,Latin America,2023-12-13,18-25
+CUST-1178,Noah Davis,noah.davis72@example.com,Mumbai,Asia-Pacific,2024-11-21,51-65
+CUST-1179,Mia Williams,mia.williams59@example.com,Tokyo,Asia-Pacific,2023-01-15,36-50
+CUST-1180,Mia Rodriguez,mia.rodriguez30@example.com,Toronto,North America,2024-01-26,36-50
+CUST-1181,Amelia Smith,amelia.smith29@example.com,Toronto,North America,2024-07-28,36-50
+CUST-1182,Aarav Williams,aarav.williams15@example.com,Mumbai,Asia-Pacific,2024-04-20,36-50
+CUST-1183,Noah Johnson,noah.johnson31@example.com,New York,North America,2023-11-08,51-65
+CUST-1184,Harper Jones,harper.jones96@example.com,Tokyo,Asia-Pacific,2024-04-09,36-50
+CUST-1185,Kenji Mueller,kenji.mueller84@example.com,Tokyo,Asia-Pacific,2024-08-24,26-35
+CUST-1186,Olivia Patel,olivia.patel48@example.com,Toronto,North America,2024-02-22,36-50
+CUST-1187,William Thomas,william.thomas88@example.com,Singapore,Asia-Pacific,2023-08-30,36-50
+CUST-1188,Mia Mueller,mia.mueller25@example.com,Mumbai,Asia-Pacific,2024-01-03,18-25
+CUST-1189,Olivia Thomas,olivia.thomas77@example.com,San Francisco,North America,2024-11-09,26-35
+CUST-1190,James Johnson,james.johnson27@example.com,Paris,Europe,2023-09-07,26-35
+CUST-1191,Liam Mueller,liam.mueller30@example.com,London,Europe,2024-08-23,26-35
+CUST-1192,Ethan Jones,ethan.jones19@example.com,Toronto,North America,2023-01-03,36-50
+CUST-1193,Noah Mueller,noah.mueller4@example.com,Berlin,Europe,2023-06-28,18-25
+CUST-1194,Noah Smith,noah.smith23@example.com,Paris,Europe,2023-09-01,65+
+CUST-1195,Mason Johnson,mason.johnson9@example.com,Chicago,North America,2024-03-07,65+
+CUST-1196,Amelia Thomas,amelia.thomas65@example.com,Paris,Europe,2024-06-09,65+
+CUST-1197,Sophia Silva,sophia.silva83@example.com,New York,North America,2024-11-05,65+
+CUST-1198,James Johnson,james.johnson63@example.com,Singapore,Asia-Pacific,2024-02-16,51-65
+CUST-1199,Kenji Thomas,kenji.thomas9@example.com,San Francisco,North America,2023-03-24,36-50
+CUST-1200,Noah Rodriguez,noah.rodriguez42@example.com,Toronto,North America,2024-10-10,65+
+CUST-1201,Alexander Silva,alexander.silva56@example.com,Sydney,Asia-Pacific,2023-10-29,51-65
+CUST-1202,Olivia Brown,olivia.brown28@example.com,Mumbai,Asia-Pacific,2024-10-28,65+
+CUST-1203,Charlotte Thomas,charlotte.thomas52@example.com,London,Europe,2024-02-28,36-50
+CUST-1204,Charlotte Brown,charlotte.brown48@example.com,Paris,Europe,2024-03-13,36-50
+CUST-1205,Noah Patel,noah.patel13@example.com,San Francisco,North America,2023-04-04,18-25
+CUST-1206,Elena Wilson,elena.wilson72@example.com,Chicago,North America,2024-07-23,18-25
+CUST-1207,Harper Hernandez,harper.hernandez86@example.com,Mumbai,Asia-Pacific,2023-05-06,51-65
+CUST-1208,Charlotte Johnson,charlotte.johnson74@example.com,Berlin,Europe,2024-09-06,36-50
+CUST-1209,Henry Miller,henry.miller14@example.com,Chicago,North America,2024-11-03,51-65
+CUST-1210,Mia Mueller,mia.mueller55@example.com,Paris,Europe,2023-04-28,36-50
+CUST-1211,Harper Silva,,Toronto,North America,2024-11-22,65+
+CUST-1212,Priya Rodriguez,priya.rodriguez40@example.com,New York,North America,2023-07-04,36-50
+CUST-1213,Ethan Wilson,ethan.wilson52@example.com,New York,North America,2023-07-05,26-35
+CUST-1214,Liam Jones,liam.jones68@example.com,Sao Paulo,Latin America,2024-10-10,18-25
+CUST-1215,William Anderson,william.anderson40@example.com,Tokyo,Asia-Pacific,2024-04-09,36-50
+CUST-1216,Elena Hernandez,elena.hernandez20@example.com,Toronto,North America,2024-09-02,18-25
+CUST-1217,Ava Silva,ava.silva85@example.com,New York,North America,2024-11-21,18-25
+CUST-1218,Charlotte Patel,charlotte.patel97@example.com,Toronto,North America,2024-03-28,51-65
+CUST-1219,Henry Brown,henry.brown87@example.com,Paris,Europe,2024-03-16,18-25
+CUST-1220,Lucas Patel,lucas.patel51@example.com,Sydney,Asia-Pacific,2024-11-14,36-50
+CUST-1221,Evelyn Johnson,evelyn.johnson99@example.com,New York,North America,2023-07-29,36-50
+CUST-1222,Noah Rodriguez,,Berlin,Europe,2023-12-02,18-25
+CUST-1223,Elena Taylor,elena.taylor30@example.com,Chicago,North America,2023-05-13,51-65
+CUST-1224,Henry Mueller,henry.mueller95@example.com,Mumbai,Asia-Pacific,2023-12-29,18-25
+CUST-1225,Emma Taylor,emma.taylor74@example.com,New York,North America,2024-04-15,18-25
+CUST-1226,Charlotte Dubois,charlotte.dubois52@example.com,Tokyo,Asia-Pacific,2024-10-17,51-65
+CUST-1227,James Hernandez,james.hernandez47@example.com,Chicago,North America,2024-09-24,51-65
+CUST-1228,Liam Taylor,liam.taylor68@example.com,San Francisco,North America,2023-09-07,51-65
+CUST-1229,Liam Anderson,liam.anderson22@example.com,Berlin,Europe,2023-12-14,26-35
+CUST-1230,Liam Tanaka,liam.tanaka45@example.com,Mumbai,Asia-Pacific,2023-04-27,65+
+CUST-1231,Mia Jones,mia.jones23@example.com,London,Europe,2023-04-16,26-35
+CUST-1232,Evelyn Jones,evelyn.jones81@example.com,Mumbai,Asia-Pacific,2023-03-19,26-35
+CUST-1233,Amelia Thomas,amelia.thomas73@example.com,Toronto,North America,2024-08-16,51-65
+CUST-1234,Aarav Silva,aarav.silva9@example.com,Paris,Europe,2024-10-04,36-50
+CUST-1235,Amelia Thomas,amelia.thomas46@example.com,Mumbai,Asia-Pacific,2023-11-07,36-50
+CUST-1236,Henry Williams,henry.williams48@example.com,Berlin,Europe,2024-04-17,51-65
+CUST-1237,Isabella Williams,isabella.williams50@example.com,Mumbai,Asia-Pacific,2023-04-03,65+
+CUST-1238,Daniel Dubois,daniel.dubois74@example.com,Sydney,Asia-Pacific,2023-02-12,51-65
+CUST-1239,Aarav Miller,aarav.miller8@example.com,Paris,Europe,2024-09-11,51-65
+CUST-1240,Daniel Brown,daniel.brown6@example.com,Paris,Europe,2023-03-28,65+
+CUST-1241,Sophia Thomas,sophia.thomas47@example.com,Singapore,Asia-Pacific,2024-06-20,65+
+CUST-1242,Mia Martinez,mia.martinez7@example.com,Tokyo,Asia-Pacific,2024-02-23,36-50
+CUST-1243,Aarav Hernandez,aarav.hernandez50@example.com,San Francisco,North America,2023-12-04,18-25
+CUST-1244,Isabella Rodriguez,isabella.rodriguez43@example.com,Sao Paulo,Latin America,2024-11-03,65+
+CUST-1245,Liam Dubois,liam.dubois84@example.com,Mumbai,Asia-Pacific,2023-05-25,36-50
+CUST-1246,Kenji Anderson,kenji.anderson49@example.com,Chicago,North America,2024-09-01,18-25
+CUST-1247,Aarav Hernandez,aarav.hernandez86@example.com,Chicago,North America,2024-11-17,65+
+CUST-1248,Charlotte Tanaka,charlotte.tanaka28@example.com,Paris,Europe,2023-01-19,36-50
+CUST-1249,Ethan Patel,ethan.patel38@example.com,London,Europe,2023-08-20,26-35
+CUST-1250,Olivia Tanaka,olivia.tanaka99@example.com,Sydney,Asia-Pacific,2024-06-23,18-25
+CUST-1251,Evelyn Jones,evelyn.jones89@example.com,Toronto,North America,2024-01-21,26-35
+CUST-1252,Evelyn Garcia,evelyn.garcia87@example.com,Sao Paulo,Latin America,2024-03-24,18-25
+CUST-1253,Elena Davis,elena.davis58@example.com,Singapore,Asia-Pacific,2024-09-17,36-50
+CUST-1254,Sophia Mueller,sophia.mueller25@example.com,London,Europe,2023-11-13,51-65
+CUST-1255,Mia Dubois,mia.dubois65@example.com,Singapore,Asia-Pacific,2024-04-17,36-50
+CUST-1256,Henry Taylor,henry.taylor33@example.com,Chicago,North America,2023-07-24,65+
+CUST-1257,Emma Patel,emma.patel67@example.com,Paris,Europe,2024-07-21,18-25
+CUST-1258,Olivia Martinez,olivia.martinez66@example.com,San Francisco,North America,2023-06-14,36-50
+CUST-1259,Noah Taylor,noah.taylor4@example.com,San Francisco,North America,2023-08-16,51-65
+CUST-1260,Charlotte Johnson,charlotte.johnson11@example.com,Tokyo,Asia-Pacific,2024-05-29,36-50
+CUST-1261,Mia Davis,mia.davis84@example.com,New York,North America,2023-11-23,18-25
+CUST-1262,Ethan Jones,ethan.jones61@example.com,Chicago,North America,2023-02-09,36-50
+CUST-1263,Kenji Jones,kenji.jones11@example.com,Sao Paulo,Latin America,2024-04-25,51-65
+CUST-1264,James Rodriguez,james.rodriguez78@example.com,London,Europe,2023-06-03,65+
+CUST-1265,Henry Taylor,henry.taylor7@example.com,San Francisco,North America,2023-10-23,26-35
+CUST-1266,Sophia Taylor,sophia.taylor64@example.com,Mumbai,Asia-Pacific,2024-09-29,51-65
+CUST-1267,Evelyn Mueller,evelyn.mueller92@example.com,New York,North America,2024-10-09,65+
+CUST-1268,Noah Martinez,noah.martinez74@example.com,Tokyo,Asia-Pacific,2023-01-02,65+
+CUST-1269,Charlotte Garcia,charlotte.garcia47@example.com,Mumbai,Asia-Pacific,2024-11-15,18-25
+CUST-1270,Liam Tanaka,liam.tanaka50@example.com,Sydney,Asia-Pacific,2024-06-03,65+
+CUST-1271,Amelia Johnson,amelia.johnson3@example.com,Mumbai,Asia-Pacific,2024-02-01,36-50
+CUST-1272,Mia Williams,mia.williams95@example.com,Paris,Europe,2023-09-04,18-25
+CUST-1273,Ethan Jones,ethan.jones83@example.com,New York,North America,2023-12-27,65+
+CUST-1274,Ava Thomas,ava.thomas9@example.com,Sao Paulo,Latin America,2024-05-05,26-35
+CUST-1275,Kenji Thomas,kenji.thomas26@example.com,New York,North America,2023-10-28,26-35
+CUST-1276,Emma Hernandez,emma.hernandez70@example.com,Berlin,Europe,2024-06-11,51-65
+CUST-1277,Amelia Rodriguez,amelia.rodriguez7@example.com,New York,North America,2024-10-24,26-35
+CUST-1278,Aarav Hernandez,aarav.hernandez52@example.com,Berlin,Europe,2023-05-08,36-50
+CUST-1279,Elena Thomas,elena.thomas64@example.com,Tokyo,Asia-Pacific,2023-12-14,26-35
+CUST-1280,Mia Tanaka,mia.tanaka78@example.com,Berlin,Europe,2023-03-26,51-65
+CUST-1281,Ava Mueller,ava.mueller85@example.com,Berlin,Europe,2023-11-25,18-25
+CUST-1282,Isabella Martinez,isabella.martinez57@example.com,Singapore,Asia-Pacific,2024-09-09,51-65
+CUST-1283,Mia Thomas,mia.thomas36@example.com,New York,North America,2023-12-28,65+
+CUST-1284,Aarav Johnson,aarav.johnson96@example.com,San Francisco,North America,2024-11-18,51-65
+CUST-1285,Priya Garcia,priya.garcia57@example.com,New York,North America,2023-05-27,65+
+CUST-1286,Emma Jones,emma.jones73@example.com,San Francisco,North America,2023-08-30,36-50
+CUST-1287,Emma Silva,emma.silva48@example.com,Chicago,North America,2024-11-26,51-65
+CUST-1288,Daniel Williams,daniel.williams41@example.com,Toronto,North America,2023-05-21,65+
+CUST-1289,Aarav Rodriguez,aarav.rodriguez64@example.com,London,Europe,2023-04-27,18-25
+CUST-1290,Henry Anderson,henry.anderson91@example.com,Sydney,Asia-Pacific,2023-05-01,36-50
+CUST-1291,Daniel Miller,daniel.miller18@example.com,Toronto,North America,2023-10-20,51-65
+CUST-1292,Liam Thomas,liam.thomas41@example.com,Chicago,North America,2024-03-31,18-25
+CUST-1293,Priya Wilson,priya.wilson39@example.com,Sao Paulo,Latin America,2023-03-08,65+
+CUST-1294,Ava Garcia,ava.garcia26@example.com,Paris,Europe,2024-06-04,26-35
+CUST-1295,Noah Davis,noah.davis48@example.com,Singapore,Asia-Pacific,2023-01-27,36-50
+CUST-1296,Daniel Mueller,daniel.mueller51@example.com,Chicago,North America,2024-09-18,18-25
+CUST-1297,Kenji Patel,kenji.patel10@example.com,Sydney,Asia-Pacific,2024-02-25,51-65
+CUST-1298,Noah Hernandez,noah.hernandez67@example.com,Mumbai,Asia-Pacific,2023-03-17,51-65
+CUST-1299,Mia Jones,mia.jones17@example.com,Sydney,Asia-Pacific,2024-10-17,65+
+CUST-1300,Charlotte Tanaka,charlotte.tanaka22@example.com,New York,North America,2023-05-08,65+
+CUST-1301,Ava Hernandez,ava.hernandez67@example.com,Sao Paulo,Latin America,2023-08-19,36-50
+CUST-1302,Isabella Williams,isabella.williams81@example.com,Berlin,Europe,2023-07-21,65+
+CUST-1303,Isabella Silva,isabella.silva76@example.com,Sydney,Asia-Pacific,2023-04-06,65+
+CUST-1304,Lucas Jones,lucas.jones78@example.com,Chicago,North America,2024-11-05,65+
+CUST-1305,Ethan Dubois,ethan.dubois83@example.com,New York,North America,2023-01-30,18-25
+CUST-1306,Lucas Rodriguez,lucas.rodriguez82@example.com,Mumbai,Asia-Pacific,2023-08-04,65+
+CUST-1307,James Patel,james.patel39@example.com,Mumbai,Asia-Pacific,2024-07-12,36-50
+CUST-1308,Amelia Davis,amelia.davis89@example.com,Mumbai,Asia-Pacific,2024-02-20,36-50
+CUST-1309,Emma Garcia,emma.garcia44@example.com,Singapore,Asia-Pacific,2024-03-01,51-65
+CUST-1310,Evelyn Jones,evelyn.jones17@example.com,Paris,Europe,2023-11-23,36-50
+CUST-1311,Mia Tanaka,mia.tanaka16@example.com,Sydney,Asia-Pacific,2023-04-19,36-50
+CUST-1312,Mason Thomas,mason.thomas50@example.com,London,Europe,2023-05-25,18-25
+CUST-1313,Evelyn Taylor,evelyn.taylor93@example.com,London,Europe,2023-06-13,36-50
+CUST-1314,Ethan Miller,ethan.miller40@example.com,Chicago,North America,2024-05-25,65+
+CUST-1315,Amelia Smith,amelia.smith31@example.com,San Francisco,North America,2024-02-07,65+
+CUST-1316,William Dubois,william.dubois77@example.com,Paris,Europe,2023-02-19,18-25
+CUST-1317,Aarav Patel,aarav.patel56@example.com,Berlin,Europe,2024-07-03,18-25
+CUST-1318,Noah Rodriguez,noah.rodriguez52@example.com,Sao Paulo,Latin America,2024-01-10,51-65
+CUST-1319,Emma Dubois,emma.dubois10@example.com,Sydney,Asia-Pacific,2023-07-19,36-50
+CUST-1320,Alexander Tanaka,alexander.tanaka80@example.com,Singapore,Asia-Pacific,2024-07-17,36-50
+CUST-1321,Priya Silva,priya.silva44@example.com,San Francisco,North America,2023-05-12,18-25
+CUST-1322,Harper Wilson,harper.wilson65@example.com,Chicago,North America,2023-07-23,65+
+CUST-1323,Emma Johnson,emma.johnson67@example.com,New York,North America,2023-05-21,36-50
+CUST-1324,Daniel Jones,daniel.jones79@example.com,Toronto,North America,2024-06-11,26-35
+CUST-1325,Ethan Garcia,ethan.garcia65@example.com,Tokyo,Asia-Pacific,2024-09-23,36-50
+CUST-1326,Henry Mueller,henry.mueller3@example.com,Singapore,Asia-Pacific,2024-07-30,36-50
+CUST-1327,Mia Hernandez,mia.hernandez93@example.com,Mumbai,Asia-Pacific,2023-04-23,51-65
+CUST-1328,Kenji Smith,kenji.smith75@example.com,Toronto,North America,2024-04-30,36-50
+CUST-1329,Lucas Davis,lucas.davis68@example.com,Sao Paulo,Latin America,2023-02-22,65+
+CUST-1330,Aarav Silva,aarav.silva90@example.com,Tokyo,Asia-Pacific,2023-06-01,26-35
+CUST-1331,Olivia Miller,olivia.miller53@example.com,New York,North America,2024-03-27,36-50
+CUST-1332,Kenji Miller,kenji.miller95@example.com,Tokyo,Asia-Pacific,2024-05-28,65+
+CUST-1333,Elena Johnson,elena.johnson42@example.com,Sao Paulo,Latin America,2023-05-22,65+
+CUST-1334,Priya Patel,priya.patel59@example.com,Sydney,Asia-Pacific,2024-01-21,36-50
+CUST-1335,Harper Hernandez,harper.hernandez25@example.com,Sydney,Asia-Pacific,2023-12-29,36-50
+CUST-1336,Sophia Rodriguez,sophia.rodriguez39@example.com,Sydney,Asia-Pacific,2023-11-02,26-35
+CUST-1337,Isabella Miller,isabella.miller72@example.com,Sao Paulo,Latin America,2024-05-15,36-50
+CUST-1338,Elena Rodriguez,elena.rodriguez49@example.com,Berlin,Europe,2023-05-05,65+
+CUST-1339,Alexander Wilson,alexander.wilson92@example.com,Chicago,North America,2023-10-25,18-25
+CUST-1340,Liam Wilson,liam.wilson28@example.com,Singapore,Asia-Pacific,2024-11-02,36-50
+CUST-1341,William Mueller,william.mueller79@example.com,Berlin,Europe,2024-07-29,36-50
+CUST-1342,Elena Dubois,elena.dubois68@example.com,London,Europe,2023-09-06,18-25
+CUST-1343,Sophia Davis,sophia.davis61@example.com,New York,North America,2023-04-13,51-65
+CUST-1344,Olivia Jones,olivia.jones61@example.com,New York,North America,2024-07-17,26-35
+CUST-1345,Amelia Miller,amelia.miller99@example.com,Berlin,Europe,2023-11-25,36-50
+CUST-1346,Liam Dubois,liam.dubois23@example.com,London,Europe,2024-07-01,18-25
+CUST-1347,Charlotte Garcia,charlotte.garcia96@example.com,New York,North America,2024-02-11,51-65
+CUST-1348,Isabella Johnson,isabella.johnson43@example.com,New York,North America,2023-11-02,65+
+CUST-1349,Isabella Thomas,isabella.thomas18@example.com,Mumbai,Asia-Pacific,2024-07-10,65+
+CUST-1350,Henry Thomas,henry.thomas94@example.com,Berlin,Europe,2023-07-17,18-25
+CUST-1351,Daniel Rodriguez,daniel.rodriguez38@example.com,Sao Paulo,Latin America,2023-07-10,18-25
+CUST-1352,Lucas Miller,lucas.miller66@example.com,Chicago,North America,2024-09-17,51-65
+CUST-1353,Ethan Williams,ethan.williams18@example.com,Tokyo,Asia-Pacific,2024-11-16,18-25
+CUST-1354,Amelia Hernandez,amelia.hernandez58@example.com,London,Europe,2023-01-07,36-50
+CUST-1355,Mason Hernandez,,Berlin,Europe,2024-08-19,65+
+CUST-1356,Aarav Wilson,aarav.wilson60@example.com,Sao Paulo,Latin America,2023-08-30,18-25
+CUST-1357,Isabella Garcia,isabella.garcia82@example.com,Tokyo,Asia-Pacific,2024-05-29,36-50
+CUST-1358,Isabella Wilson,isabella.wilson62@example.com,Toronto,North America,2023-08-15,26-35
+CUST-1359,Noah Thomas,noah.thomas71@example.com,Sao Paulo,Latin America,2024-09-12,36-50
+CUST-1360,Amelia Mueller,amelia.mueller77@example.com,Mumbai,Asia-Pacific,2023-08-12,26-35
+CUST-1361,Liam Tanaka,liam.tanaka73@example.com,Singapore,Asia-Pacific,2024-06-24,36-50
+CUST-1362,Olivia Johnson,olivia.johnson20@example.com,Sydney,Asia-Pacific,2024-06-01,26-35
+CUST-1363,Ava Hernandez,ava.hernandez92@example.com,Sydney,Asia-Pacific,2024-03-28,18-25
+CUST-1364,Lucas Patel,lucas.patel59@example.com,San Francisco,North America,2024-06-06,51-65
+CUST-1365,Noah Tanaka,noah.tanaka60@example.com,Tokyo,Asia-Pacific,2024-04-12,65+
+CUST-1366,Priya Martinez,priya.martinez1@example.com,Sao Paulo,Latin America,2023-01-23,51-65
+CUST-1367,Elena Miller,elena.miller90@example.com,Toronto,North America,2023-03-16,18-25
+CUST-1368,Liam Mueller,liam.mueller53@example.com,New York,North America,2023-03-12,51-65
+CUST-1369,Ava Jones,ava.jones49@example.com,Mumbai,Asia-Pacific,2024-10-23,51-65
+CUST-1370,Daniel Anderson,daniel.anderson45@example.com,Tokyo,Asia-Pacific,2023-03-24,65+
+CUST-1371,Olivia Garcia,olivia.garcia29@example.com,Sydney,Asia-Pacific,2024-02-07,65+
+CUST-1372,James Smith,james.smith49@example.com,Berlin,Europe,2024-04-19,65+
+CUST-1373,Sophia Davis,sophia.davis93@example.com,Singapore,Asia-Pacific,2023-12-21,26-35
+CUST-1374,Olivia Johnson,olivia.johnson3@example.com,Mumbai,Asia-Pacific,2024-03-05,65+
+CUST-1375,Sophia Miller,sophia.miller77@example.com,San Francisco,North America,2023-04-14,65+
+CUST-1376,Priya Johnson,priya.johnson70@example.com,London,Europe,2023-02-15,51-65
+CUST-1377,William Johnson,william.johnson94@example.com,Chicago,North America,2024-05-30,36-50
+CUST-1378,Lucas Hernandez,lucas.hernandez19@example.com,Toronto,North America,2024-09-04,36-50
+CUST-1379,Priya Tanaka,priya.tanaka72@example.com,London,Europe,2024-02-28,36-50
+CUST-1380,Lucas Garcia,lucas.garcia7@example.com,Mumbai,Asia-Pacific,2024-11-26,51-65
+CUST-1381,Mia Anderson,mia.anderson39@example.com,Sydney,Asia-Pacific,2023-11-23,51-65
+CUST-1382,Alexander Garcia,alexander.garcia39@example.com,Sydney,Asia-Pacific,2024-04-29,26-35
+CUST-1383,Kenji Jones,kenji.jones54@example.com,Singapore,Asia-Pacific,2023-03-01,65+
+CUST-1384,Harper Tanaka,harper.tanaka43@example.com,Chicago,North America,2024-02-02,26-35
+CUST-1385,Aarav Williams,aarav.williams25@example.com,Singapore,Asia-Pacific,2024-01-15,18-25
+CUST-1386,Emma Rodriguez,emma.rodriguez10@example.com,Tokyo,Asia-Pacific,2024-11-20,65+
+CUST-1387,William Dubois,william.dubois27@example.com,Sao Paulo,Latin America,2024-11-18,65+
+CUST-1388,Ethan Martinez,ethan.martinez16@example.com,New York,North America,2023-08-05,26-35
+CUST-1389,Elena Patel,elena.patel31@example.com,London,Europe,2024-09-10,26-35
+CUST-1390,Harper Hernandez,harper.hernandez46@example.com,Berlin,Europe,2024-01-25,51-65
+CUST-1391,Isabella Rodriguez,isabella.rodriguez93@example.com,Paris,Europe,2024-06-09,51-65
+CUST-1392,Amelia Hernandez,amelia.hernandez73@example.com,London,Europe,2024-01-15,36-50
+CUST-1393,Sophia Jones,sophia.jones75@example.com,New York,North America,2023-09-25,65+
+CUST-1394,Elena Taylor,elena.taylor49@example.com,Berlin,Europe,2023-06-06,26-35
+CUST-1395,Lucas Davis,lucas.davis63@example.com,Singapore,Asia-Pacific,2024-07-17,36-50
+CUST-1396,Elena Patel,elena.patel93@example.com,Singapore,Asia-Pacific,2023-06-22,36-50
+CUST-1397,Harper Patel,harper.patel10@example.com,Chicago,North America,2024-07-09,18-25
+CUST-1398,Priya Johnson,priya.johnson30@example.com,New York,North America,2024-02-27,26-35
+CUST-1399,Liam Jones,liam.jones8@example.com,New York,North America,2023-08-12,65+
+CUST-1400,Evelyn Silva,,Singapore,Asia-Pacific,2024-11-06,51-65
+CUST-1401,Harper Mueller,harper.mueller36@example.com,Tokyo,Asia-Pacific,2023-01-13,18-25
+CUST-1402,Harper Martinez,harper.martinez23@example.com,New York,North America,2024-05-29,51-65
+CUST-1403,Olivia Brown,olivia.brown68@example.com,Sydney,Asia-Pacific,2023-06-02,26-35
+CUST-1404,Mason Wilson,mason.wilson52@example.com,Berlin,Europe,2024-02-11,18-25
+CUST-1405,Daniel Dubois,daniel.dubois11@example.com,London,Europe,2023-08-20,36-50
+CUST-1406,Aarav Johnson,aarav.johnson61@example.com,San Francisco,North America,2024-02-20,51-65
+CUST-1407,Emma Smith,emma.smith56@example.com,Sao Paulo,Latin America,2023-06-25,18-25
+CUST-1408,Aarav Hernandez,aarav.hernandez30@example.com,Toronto,North America,2023-04-08,65+
+CUST-1409,William Dubois,william.dubois88@example.com,Singapore,Asia-Pacific,2023-10-05,18-25
+CUST-1410,Mason Mueller,mason.mueller41@example.com,Toronto,North America,2024-11-04,18-25
+CUST-1411,James Miller,james.miller39@example.com,Toronto,North America,2023-05-28,51-65
+CUST-1412,Ava Dubois,ava.dubois70@example.com,London,Europe,2024-08-03,51-65
+CUST-1413,Ethan Anderson,ethan.anderson45@example.com,Sao Paulo,Latin America,2023-05-24,18-25
+CUST-1414,Emma Brown,emma.brown99@example.com,Tokyo,Asia-Pacific,2023-08-26,18-25
+CUST-1415,Evelyn Silva,evelyn.silva58@example.com,Tokyo,Asia-Pacific,2023-12-01,18-25
+CUST-1416,Amelia Davis,amelia.davis88@example.com,Paris,Europe,2024-07-20,51-65
+CUST-1417,Lucas Anderson,lucas.anderson92@example.com,San Francisco,North America,2024-09-25,36-50
+CUST-1418,Liam Williams,liam.williams82@example.com,Berlin,Europe,2023-06-07,51-65
+CUST-1419,Noah Anderson,noah.anderson40@example.com,Paris,Europe,2024-01-05,18-25
+CUST-1420,Daniel Wilson,daniel.wilson56@example.com,Berlin,Europe,2023-04-15,26-35
+CUST-1421,Daniel Mueller,daniel.mueller12@example.com,Sydney,Asia-Pacific,2024-06-08,51-65
+CUST-1422,Mia Mueller,mia.mueller50@example.com,San Francisco,North America,2024-09-03,65+
+CUST-1423,James Martinez,james.martinez72@example.com,Tokyo,Asia-Pacific,2024-02-02,18-25
+CUST-1424,Sophia Dubois,sophia.dubois35@example.com,Sydney,Asia-Pacific,2023-06-23,51-65
+CUST-1425,Isabella Rodriguez,isabella.rodriguez36@example.com,Singapore,Asia-Pacific,2023-05-30,18-25
+CUST-1426,Charlotte Martinez,charlotte.martinez32@example.com,Singapore,Asia-Pacific,2023-03-20,36-50
+CUST-1427,Elena Patel,elena.patel18@example.com,Toronto,North America,2024-09-23,26-35
+CUST-1428,Isabella Smith,isabella.smith43@example.com,Tokyo,Asia-Pacific,2023-12-07,65+
+CUST-1429,Daniel Hernandez,daniel.hernandez42@example.com,Tokyo,Asia-Pacific,2024-10-28,65+
+CUST-1430,Evelyn Miller,evelyn.miller41@example.com,Singapore,Asia-Pacific,2023-11-18,26-35
+CUST-1431,Isabella Patel,isabella.patel51@example.com,Toronto,North America,2023-09-06,36-50
+CUST-1432,Mia Brown,mia.brown24@example.com,Toronto,North America,2023-07-24,65+
+CUST-1433,Priya Mueller,priya.mueller38@example.com,New York,North America,2024-04-17,26-35
+CUST-1434,Kenji Williams,kenji.williams39@example.com,Tokyo,Asia-Pacific,2024-11-20,51-65
+CUST-1435,Sophia Rodriguez,sophia.rodriguez10@example.com,Mumbai,Asia-Pacific,2023-06-07,51-65
+CUST-1436,Daniel Silva,daniel.silva89@example.com,Singapore,Asia-Pacific,2024-08-19,51-65
+CUST-1437,Charlotte Mueller,charlotte.mueller11@example.com,New York,North America,2024-01-04,65+
+CUST-1438,Olivia Davis,olivia.davis79@example.com,Mumbai,Asia-Pacific,2024-11-11,36-50
+CUST-1439,Emma Dubois,emma.dubois43@example.com,Mumbai,Asia-Pacific,2024-11-24,51-65
+CUST-1440,Charlotte Brown,charlotte.brown96@example.com,New York,North America,2023-04-11,36-50
+CUST-1441,Henry Mueller,henry.mueller51@example.com,Toronto,North America,2024-08-12,26-35
+CUST-1442,Daniel Dubois,daniel.dubois4@example.com,Sao Paulo,Latin America,2024-05-27,26-35
+CUST-1443,Amelia Brown,amelia.brown94@example.com,Berlin,Europe,2024-03-01,18-25
+CUST-1444,Noah Wilson,noah.wilson67@example.com,Berlin,Europe,2023-12-18,51-65
+CUST-1445,Amelia Wilson,amelia.wilson58@example.com,Singapore,Asia-Pacific,2023-04-10,51-65
+CUST-1446,Ethan Williams,,Berlin,Europe,2023-02-15,18-25
+CUST-1447,Ethan Brown,ethan.brown71@example.com,Mumbai,Asia-Pacific,2023-06-18,26-35
+CUST-1448,Ava Hernandez,ava.hernandez52@example.com,Sydney,Asia-Pacific,2024-03-12,51-65
+CUST-1449,Aarav Garcia,aarav.garcia95@example.com,Chicago,North America,2024-10-17,51-65
+CUST-1450,Evelyn Miller,evelyn.miller91@example.com,Singapore,Asia-Pacific,2024-08-29,51-65
+CUST-1451,William Miller,william.miller69@example.com,Berlin,Europe,2023-03-06,65+
+CUST-1452,Ava Wilson,ava.wilson86@example.com,Paris,Europe,2023-07-21,51-65
+CUST-1453,Amelia Tanaka,amelia.tanaka51@example.com,Mumbai,Asia-Pacific,2023-11-17,65+
+CUST-1454,Lucas Brown,lucas.brown87@example.com,Paris,Europe,2023-12-27,51-65
+CUST-1455,Kenji Martinez,kenji.martinez41@example.com,Toronto,North America,2024-08-27,18-25
+CUST-1456,Olivia Davis,olivia.davis19@example.com,Berlin,Europe,2023-04-30,26-35
+CUST-1457,Henry Anderson,henry.anderson55@example.com,Tokyo,Asia-Pacific,2024-09-02,26-35
+CUST-1458,Ava Patel,ava.patel63@example.com,Mumbai,Asia-Pacific,2024-07-04,26-35
+CUST-1459,Isabella Jones,isabella.jones46@example.com,Chicago,North America,2023-11-19,51-65
+CUST-1460,James Patel,james.patel65@example.com,Chicago,North America,2023-07-19,51-65
+CUST-1461,Aarav Patel,aarav.patel57@example.com,Tokyo,Asia-Pacific,2024-05-18,51-65
+CUST-1462,Amelia Garcia,amelia.garcia29@example.com,San Francisco,North America,2024-08-01,18-25
+CUST-1463,Isabella Johnson,isabella.johnson59@example.com,Berlin,Europe,2023-08-19,65+
+CUST-1464,Lucas Patel,lucas.patel35@example.com,Sydney,Asia-Pacific,2024-06-07,18-25
+CUST-1465,Harper Wilson,harper.wilson55@example.com,Sydney,Asia-Pacific,2023-02-12,51-65
+CUST-1466,Olivia Davis,olivia.davis12@example.com,Berlin,Europe,2023-02-03,51-65
+CUST-1467,Daniel Brown,daniel.brown91@example.com,London,Europe,2023-08-03,65+
+CUST-1468,Evelyn Taylor,evelyn.taylor27@example.com,Chicago,North America,2024-09-22,26-35
+CUST-1469,Emma Dubois,emma.dubois22@example.com,Paris,Europe,2024-06-29,36-50
+CUST-1470,Ethan Martinez,ethan.martinez66@example.com,Berlin,Europe,2024-08-09,36-50
+CUST-1471,Priya Brown,priya.brown84@example.com,Chicago,North America,2024-02-26,18-25
+CUST-1472,Noah Jones,noah.jones98@example.com,London,Europe,2023-05-30,36-50
+CUST-1473,Priya Anderson,priya.anderson81@example.com,Singapore,Asia-Pacific,2023-05-26,65+
+CUST-1474,Charlotte Anderson,charlotte.anderson96@example.com,Singapore,Asia-Pacific,2023-03-19,18-25
+CUST-1475,Mason Wilson,mason.wilson94@example.com,Singapore,Asia-Pacific,2024-05-14,36-50
+CUST-1476,Liam Thomas,liam.thomas69@example.com,Mumbai,Asia-Pacific,2024-11-11,36-50
+CUST-1477,Alexander Miller,alexander.miller37@example.com,Tokyo,Asia-Pacific,2023-08-05,51-65
+CUST-1478,Ethan Mueller,ethan.mueller44@example.com,Toronto,North America,2023-05-14,65+
+CUST-1479,Priya Johnson,,New York,North America,2023-04-12,51-65
+CUST-1480,Ava Thomas,ava.thomas89@example.com,Singapore,Asia-Pacific,2023-01-01,51-65
+CUST-1481,Noah Martinez,noah.martinez33@example.com,Chicago,North America,2023-10-08,18-25
+CUST-1482,Liam Wilson,liam.wilson81@example.com,Mumbai,Asia-Pacific,2024-10-26,26-35
+CUST-1483,Isabella Davis,isabella.davis1@example.com,Tokyo,Asia-Pacific,2024-11-02,18-25
+CUST-1484,William Patel,william.patel88@example.com,San Francisco,North America,2023-05-16,65+
+CUST-1485,Daniel Smith,daniel.smith55@example.com,New York,North America,2023-12-18,18-25
+CUST-1486,Kenji Jones,kenji.jones94@example.com,Singapore,Asia-Pacific,2023-03-14,26-35
+CUST-1487,Olivia Brown,olivia.brown97@example.com,Paris,Europe,2024-01-12,36-50
+CUST-1488,Noah Jones,,San Francisco,North America,2024-06-27,65+
+CUST-1489,Aarav Garcia,aarav.garcia20@example.com,Singapore,Asia-Pacific,2023-12-26,26-35
+CUST-1490,Charlotte Silva,charlotte.silva13@example.com,Mumbai,Asia-Pacific,2024-03-29,26-35
+CUST-1491,Noah Brown,noah.brown41@example.com,Toronto,North America,2024-01-29,36-50
+CUST-1492,Noah Davis,noah.davis77@example.com,Berlin,Europe,2024-10-22,18-25
+CUST-1493,Evelyn Silva,evelyn.silva78@example.com,Berlin,Europe,2023-01-28,36-50
+CUST-1494,Henry Miller,henry.miller31@example.com,Sao Paulo,Latin America,2024-02-06,36-50
+CUST-1495,Amelia Anderson,amelia.anderson10@example.com,San Francisco,North America,2023-09-04,51-65
+CUST-1496,Henry Smith,henry.smith73@example.com,Paris,Europe,2023-11-21,26-35
+CUST-1497,Charlotte Wilson,charlotte.wilson99@example.com,Sydney,Asia-Pacific,2024-11-30,26-35
+CUST-1498,Liam Smith,liam.smith6@example.com,Toronto,North America,2023-03-11,18-25
+CUST-1499,Emma Anderson,emma.anderson55@example.com,Sydney,Asia-Pacific,2023-10-21,65+
+CUST-1500,Kenji Anderson,kenji.anderson20@example.com,San Francisco,North America,2024-10-17,65+
+CUST-1501,Mason Williams,mason.williams20@example.com,Berlin,Europe,2023-03-22,65+
+CUST-1502,Harper Hernandez,harper.hernandez56@example.com,Tokyo,Asia-Pacific,2024-08-23,18-25
+CUST-1503,Elena Davis,elena.davis15@example.com,New York,North America,2023-09-08,18-25
+CUST-1504,Daniel Silva,daniel.silva85@example.com,Toronto,North America,2023-02-26,36-50
+CUST-1505,Elena Garcia,elena.garcia21@example.com,San Francisco,North America,2023-01-13,26-35
+CUST-1506,Amelia Wilson,amelia.wilson17@example.com,Sydney,Asia-Pacific,2024-06-13,36-50
+CUST-1507,Elena Rodriguez,elena.rodriguez55@example.com,Sao Paulo,Latin America,2023-05-01,18-25
+CUST-1508,Mason Tanaka,mason.tanaka64@example.com,San Francisco,North America,2023-09-27,65+
+CUST-1509,Daniel Tanaka,daniel.tanaka22@example.com,Paris,Europe,2023-02-26,51-65
+CUST-1510,Mia Garcia,mia.garcia15@example.com,Berlin,Europe,2023-04-16,65+
+CUST-1511,Sophia Tanaka,sophia.tanaka61@example.com,New York,North America,2023-02-15,18-25
+CUST-1512,Mia Anderson,mia.anderson92@example.com,Chicago,North America,2023-07-03,18-25
+CUST-1513,Elena Taylor,elena.taylor93@example.com,London,Europe,2023-11-26,26-35
+CUST-1514,Ethan Rodriguez,ethan.rodriguez87@example.com,San Francisco,North America,2024-08-08,36-50
+CUST-1515,Emma Garcia,emma.garcia9@example.com,London,Europe,2024-06-12,18-25
+CUST-1516,Daniel Martinez,daniel.martinez2@example.com,Berlin,Europe,2023-12-02,18-25
+CUST-1517,Mia Miller,mia.miller32@example.com,Berlin,Europe,2024-07-31,36-50
+CUST-1518,Daniel Wilson,daniel.wilson70@example.com,Toronto,North America,2024-05-20,26-35
+CUST-1519,Sophia Jones,sophia.jones45@example.com,New York,North America,2024-02-24,18-25
+CUST-1520,Aarav Smith,aarav.smith94@example.com,Paris,Europe,2023-01-02,51-65
+CUST-1521,Isabella Brown,isabella.brown8@example.com,London,Europe,2024-06-26,26-35
+CUST-1522,Noah Rodriguez,noah.rodriguez67@example.com,San Francisco,North America,2023-02-14,26-35
+CUST-1523,Charlotte Wilson,charlotte.wilson18@example.com,Singapore,Asia-Pacific,2023-03-28,65+
+CUST-1524,Aarav Anderson,aarav.anderson85@example.com,San Francisco,North America,2024-08-29,65+
+CUST-1525,Noah Davis,noah.davis51@example.com,Berlin,Europe,2023-09-25,36-50
+CUST-1526,Kenji Hernandez,kenji.hernandez26@example.com,Paris,Europe,2024-04-08,36-50
+CUST-1527,Noah Dubois,noah.dubois60@example.com,San Francisco,North America,2023-06-09,18-25
+CUST-1528,Ethan Taylor,ethan.taylor27@example.com,San Francisco,North America,2024-07-02,36-50
+CUST-1529,Daniel Martinez,daniel.martinez88@example.com,Singapore,Asia-Pacific,2023-09-29,18-25
+CUST-1530,Isabella Silva,isabella.silva92@example.com,New York,North America,2023-08-09,36-50
+CUST-1531,Sophia Wilson,sophia.wilson34@example.com,Tokyo,Asia-Pacific,2024-06-09,18-25
+CUST-1532,Ava Smith,ava.smith32@example.com,Tokyo,Asia-Pacific,2024-04-08,65+
+CUST-1533,Olivia Thomas,,San Francisco,North America,2023-05-24,18-25
+CUST-1534,Sophia Jones,sophia.jones83@example.com,London,Europe,2024-02-15,36-50
+CUST-1535,Liam Dubois,,Toronto,North America,2023-09-23,18-25
+CUST-1536,Liam Miller,liam.miller43@example.com,Mumbai,Asia-Pacific,2024-03-30,26-35
+CUST-1537,Olivia Johnson,olivia.johnson56@example.com,Singapore,Asia-Pacific,2023-02-21,26-35
+CUST-1538,Elena Anderson,elena.anderson23@example.com,Singapore,Asia-Pacific,2023-01-31,51-65
+CUST-1539,Mia Miller,mia.miller20@example.com,Chicago,North America,2023-10-09,36-50
+CUST-1540,Emma Silva,emma.silva64@example.com,Toronto,North America,2024-09-23,26-35
+CUST-1541,Charlotte Mueller,charlotte.mueller18@example.com,Singapore,Asia-Pacific,2023-03-04,18-25
+CUST-1542,Charlotte Miller,charlotte.miller70@example.com,Mumbai,Asia-Pacific,2024-06-22,26-35
+CUST-1543,James Anderson,james.anderson63@example.com,Sao Paulo,Latin America,2024-01-03,51-65
+CUST-1544,Mia Dubois,mia.dubois4@example.com,Sydney,Asia-Pacific,2023-11-26,51-65
+CUST-1545,Ethan Silva,ethan.silva61@example.com,London,Europe,2023-01-31,36-50
+CUST-1546,Henry Wilson,henry.wilson85@example.com,Toronto,North America,2023-08-27,26-35
+CUST-1547,Sophia Rodriguez,sophia.rodriguez50@example.com,Sydney,Asia-Pacific,2023-02-27,26-35
+CUST-1548,Mia Garcia,mia.garcia95@example.com,Chicago,North America,2023-08-31,65+
+CUST-1549,Kenji Wilson,kenji.wilson73@example.com,Toronto,North America,2023-01-29,36-50
+CUST-1550,Noah Dubois,noah.dubois63@example.com,London,Europe,2024-05-19,65+
+CUST-1551,Emma Williams,emma.williams68@example.com,New York,North America,2023-08-27,65+
+CUST-1552,Amelia Smith,amelia.smith44@example.com,Paris,Europe,2024-09-20,26-35
+CUST-1553,Kenji Garcia,kenji.garcia91@example.com,Paris,Europe,2023-03-02,18-25
+CUST-1554,Noah Brown,noah.brown85@example.com,Sydney,Asia-Pacific,2024-01-09,18-25
+CUST-1555,Alexander Dubois,alexander.dubois21@example.com,San Francisco,North America,2023-12-11,36-50
+CUST-1556,Elena Taylor,elena.taylor72@example.com,Mumbai,Asia-Pacific,2024-05-13,36-50
+CUST-1557,Kenji Silva,kenji.silva49@example.com,Paris,Europe,2023-08-17,65+
+CUST-1558,Isabella Martinez,isabella.martinez74@example.com,Chicago,North America,2023-07-01,18-25
+CUST-1559,Alexander Dubois,alexander.dubois79@example.com,New York,North America,2023-07-06,65+
+CUST-1560,Sophia Dubois,sophia.dubois10@example.com,San Francisco,North America,2024-05-23,26-35
+CUST-1561,Sophia Wilson,sophia.wilson86@example.com,Paris,Europe,2023-06-21,18-25
+CUST-1562,Aarav Hernandez,aarav.hernandez89@example.com,Singapore,Asia-Pacific,2023-01-12,36-50
+CUST-1563,Liam Wilson,liam.wilson57@example.com,Berlin,Europe,2023-04-21,18-25
+CUST-1564,Elena Taylor,elena.taylor45@example.com,Chicago,North America,2024-02-28,51-65
+CUST-1565,Harper Anderson,harper.anderson88@example.com,San Francisco,North America,2024-05-05,65+
+CUST-1566,Sophia Garcia,sophia.garcia41@example.com,Singapore,Asia-Pacific,2023-03-17,18-25
+CUST-1567,Mason Brown,mason.brown21@example.com,San Francisco,North America,2023-12-17,26-35
+CUST-1568,Elena Williams,elena.williams79@example.com,Sydney,Asia-Pacific,2023-04-06,36-50
+CUST-1569,Amelia Smith,amelia.smith56@example.com,Tokyo,Asia-Pacific,2024-10-31,26-35
+CUST-1570,Ava Johnson,ava.johnson53@example.com,San Francisco,North America,2023-12-06,26-35
+CUST-1571,Kenji Mueller,kenji.mueller39@example.com,Sao Paulo,Latin America,2024-07-07,36-50
+CUST-1572,Sophia Brown,sophia.brown63@example.com,New York,North America,2024-02-07,65+
+CUST-1573,Noah Johnson,noah.johnson85@example.com,Paris,Europe,2023-01-04,51-65
+CUST-1574,Aarav Silva,,Singapore,Asia-Pacific,2023-07-24,18-25
+CUST-1575,Ava Martinez,ava.martinez51@example.com,San Francisco,North America,2024-04-29,18-25
+CUST-1576,Amelia Patel,amelia.patel50@example.com,Mumbai,Asia-Pacific,2023-09-29,18-25
+CUST-1577,Ava Wilson,ava.wilson34@example.com,Tokyo,Asia-Pacific,2024-01-14,26-35
+CUST-1578,Daniel Thomas,daniel.thomas20@example.com,Berlin,Europe,2023-08-20,36-50
+CUST-1579,Kenji Brown,kenji.brown53@example.com,San Francisco,North America,2024-11-15,36-50
+CUST-1580,Lucas Davis,lucas.davis54@example.com,Sydney,Asia-Pacific,2023-03-04,51-65
+CUST-1581,Harper Patel,harper.patel51@example.com,Toronto,North America,2023-08-30,51-65
+CUST-1582,Kenji Johnson,kenji.johnson87@example.com,Sydney,Asia-Pacific,2024-08-07,65+
+CUST-1583,Evelyn Jones,evelyn.jones22@example.com,San Francisco,North America,2024-04-04,26-35
+CUST-1584,William Miller,william.miller88@example.com,Chicago,North America,2023-02-13,51-65
+CUST-1585,Charlotte Miller,charlotte.miller94@example.com,Mumbai,Asia-Pacific,2023-06-01,65+
+CUST-1586,Liam Williams,liam.williams36@example.com,Tokyo,Asia-Pacific,2024-07-23,51-65
+CUST-1587,Henry Thomas,henry.thomas54@example.com,New York,North America,2024-09-30,65+
+CUST-1588,Olivia Taylor,olivia.taylor98@example.com,Chicago,North America,2023-06-01,65+
+CUST-1589,Olivia Brown,olivia.brown45@example.com,Toronto,North America,2023-04-14,36-50
+CUST-1590,Charlotte Rodriguez,charlotte.rodriguez61@example.com,Tokyo,Asia-Pacific,2024-11-01,51-65
+CUST-1591,Emma Garcia,emma.garcia88@example.com,Berlin,Europe,2024-02-17,26-35
+CUST-1592,Kenji Anderson,kenji.anderson7@example.com,New York,North America,2024-02-10,36-50
+CUST-1593,Elena Patel,elena.patel39@example.com,Berlin,Europe,2024-01-17,18-25
+CUST-1594,Isabella Rodriguez,isabella.rodriguez96@example.com,Singapore,Asia-Pacific,2023-04-11,26-35
+CUST-1595,Daniel Hernandez,daniel.hernandez25@example.com,Berlin,Europe,2024-03-02,65+
+CUST-1596,Daniel Miller,daniel.miller8@example.com,Tokyo,Asia-Pacific,2024-05-11,65+
+CUST-1597,Henry Garcia,henry.garcia68@example.com,San Francisco,North America,2023-11-15,65+
+CUST-1598,Lucas Smith,lucas.smith32@example.com,Chicago,North America,2023-07-17,26-35
+CUST-1599,Emma Thomas,emma.thomas60@example.com,New York,North America,2024-01-05,26-35

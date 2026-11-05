@@ -1,0 +1,411 @@
+{
+  "kpis": {
+    "total_orders": 10000,
+    "total_customers": 508,
+    "total_products": 25,
+    "gross_revenue": 5817685.76,
+    "total_discounts_granted": 683398.85,
+    "net_revenue": 5134286.91,
+    "total_cogs": 3154329.0,
+    "gross_profit": 1979957.91,
+    "overall_profit_margin_pct": 38.56,
+    "avg_order_value": 513.43
+  },
+  "hygiene_audit": {
+    "before": {
+      "orders_missing_discounts": 2203,
+      "orders_missing_pct": 22.03,
+      "customers_missing_emails": 15,
+      "products_missing_prices": 0
+    },
+    "after": {
+      "orders_missing_discounts": 0,
+      "customers_missing_emails": 0,
+      "products_missing_prices": 0
+    },
+    "strategy": "Replaced missing discount percentages with 0.0 under the industrial assumption that unlisted discounts indicate regular full-MSRP checkout without coupon codes."
+  },
+  "top_10_customers": [
+    {
+      "rank": 1,
+      "customer_id": "CUST-1531",
+      "name": "Sophia Wilson",
+      "city": "Tokyo",
+      "region": "Asia-Pacific",
+      "orders_count": 1856,
+      "units_purchased": 3461,
+      "lifetime_net_revenue": 903537.67,
+      "lifetime_profit": 347030.17,
+      "margin_pct": 38.4,
+      "avg_order_value": 486.82
+    },
+    {
+      "rank": 2,
+      "customer_id": "CUST-1532",
+      "name": "Ava Smith",
+      "city": "Tokyo",
+      "region": "Asia-Pacific",
+      "orders_count": 328,
+      "units_purchased": 626,
+      "lifetime_net_revenue": 189689.25,
+      "lifetime_profit": 70232.25,
+      "margin_pct": 37.0,
+      "avg_order_value": 578.32
+    },
+    {
+      "rank": 3,
+      "customer_id": "CUST-1475",
+      "name": "Mason Wilson",
+      "city": "Singapore",
+      "region": "Asia-Pacific",
+      "orders_count": 206,
+      "units_purchased": 410,
+      "lifetime_net_revenue": 121855.65,
+      "lifetime_profit": 45349.15,
+      "margin_pct": 37.2,
+      "avg_order_value": 591.53
+    },
+    {
+      "rank": 4,
+      "customer_id": "CUST-1390",
+      "name": "Harper Hernandez",
+      "city": "Berlin",
+      "region": "Europe",
+      "orders_count": 169,
+      "units_purchased": 306,
+      "lifetime_net_revenue": 84477.74,
+      "lifetime_profit": 33613.74,
+      "margin_pct": 39.8,
+      "avg_order_value": 499.87
+    },
+    {
+      "rank": 5,
+      "customer_id": "CUST-1261",
+      "name": "Mia Davis",
+      "city": "New York",
+      "region": "North America",
+      "orders_count": 146,
+      "units_purchased": 264,
+      "lifetime_net_revenue": 81289.54,
+      "lifetime_profit": 29618.54,
+      "margin_pct": 36.4,
+      "avg_order_value": 556.78
+    },
+    {
+      "rank": 6,
+      "customer_id": "CUST-1069",
+      "name": "Priya Miller",
+      "city": "Paris",
+      "region": "Europe",
+      "orders_count": 143,
+      "units_purchased": 288,
+      "lifetime_net_revenue": 79165.68,
+      "lifetime_profit": 29538.68,
+      "margin_pct": 37.3,
+      "avg_order_value": 553.61
+    },
+    {
+      "rank": 7,
+      "customer_id": "CUST-1518",
+      "name": "Daniel Wilson",
+      "city": "Toronto",
+      "region": "North America",
+      "orders_count": 146,
+      "units_purchased": 295,
+      "lifetime_net_revenue": 73052.31,
+      "lifetime_profit": 28188.31,
+      "margin_pct": 38.6,
+      "avg_order_value": 500.36
+    },
+    {
+      "rank": 8,
+      "customer_id": "CUST-1499",
+      "name": "Emma Anderson",
+      "city": "Sydney",
+      "region": "Asia-Pacific",
+      "orders_count": 129,
+      "units_purchased": 249,
+      "lifetime_net_revenue": 65356.27,
+      "lifetime_profit": 24244.27,
+      "margin_pct": 37.1,
+      "avg_order_value": 506.64
+    },
+    {
+      "rank": 9,
+      "customer_id": "CUST-1441",
+      "name": "Henry Mueller",
+      "city": "Toronto",
+      "region": "North America",
+      "orders_count": 137,
+      "units_purchased": 257,
+      "lifetime_net_revenue": 64649.84,
+      "lifetime_profit": 25476.84,
+      "margin_pct": 39.4,
+      "avg_order_value": 471.9
+    },
+    {
+      "rank": 10,
+      "customer_id": "CUST-1154",
+      "name": "Sophia Dubois",
+      "city": "Tokyo",
+      "region": "Asia-Pacific",
+      "orders_count": 123,
+      "units_purchased": 221,
+      "lifetime_net_revenue": 64002.19,
+      "lifetime_profit": 23709.19,
+      "margin_pct": 37.0,
+      "avg_order_value": 520.34
+    }
+  ],
+  "category_profitability": [
+    {
+      "category": "Electronics",
+      "order_count": 2420,
+      "units_sold": 4529,
+      "gross_revenue": 2243734.71,
+      "net_revenue": 1996485.6,
+      "gross_profit": 626263.6,
+      "profit_margin_pct": 31.37,
+      "avg_discount_pct": 11.71
+    },
+    {
+      "category": "Sports",
+      "order_count": 2417,
+      "units_sold": 4482,
+      "gross_revenue": 1685499.61,
+      "net_revenue": 1478948.41,
+      "gross_profit": 563367.41,
+      "profit_margin_pct": 38.09,
+      "avg_discount_pct": 11.87
+    },
+    {
+      "category": "Home & Kitchen",
+      "order_count": 1947,
+      "units_sold": 3738,
+      "gross_revenue": 1111722.62,
+      "net_revenue": 976276.64,
+      "gross_profit": 406698.64,
+      "profit_margin_pct": 41.66,
+      "avg_discount_pct": 11.82
+    },
+    {
+      "category": "Fashion",
+      "order_count": 2081,
+      "units_sold": 3952,
+      "gross_revenue": 666635.51,
+      "net_revenue": 586203.51,
+      "gross_profit": 327089.51,
+      "profit_margin_pct": 55.8,
+      "avg_discount_pct": 11.89
+    },
+    {
+      "category": "Books & Stationery",
+      "order_count": 1135,
+      "units_sold": 2169,
+      "gross_revenue": 110093.31,
+      "net_revenue": 96372.75,
+      "gross_profit": 56538.75,
+      "profit_margin_pct": 58.67,
+      "avg_discount_pct": 12.18
+    }
+  ],
+  "discount_correlation": {
+    "corr_discount_net_revenue": -0.0752,
+    "corr_discount_gross_profit": -0.2072,
+    "corr_discount_profit_margin": -0.4572,
+    "corr_discount_order_quantity": 0.0234,
+    "elasticity_tiers": [
+      {
+        "tier": "0% (Full Price)",
+        "order_count": 3327,
+        "avg_units": 1.85,
+        "avg_net_rev": 582.77,
+        "avg_margin_pct": 56.43,
+        "total_profit": 882933.15
+      },
+      {
+        "tier": "1% - 10%",
+        "order_count": 2161,
+        "avg_units": 1.88,
+        "avg_net_rev": 545.62,
+        "avg_margin_pct": 52.85,
+        "total_profit": 482076.39
+      },
+      {
+        "tier": "11% - 20%",
+        "order_count": 2219,
+        "avg_units": 1.89,
+        "avg_net_rev": 483.68,
+        "avg_margin_pct": 47.0,
+        "total_profit": 369891.33
+      },
+      {
+        "tier": "21% - 30%",
+        "order_count": 2293,
+        "avg_units": 1.95,
+        "avg_net_rev": 411.28,
+        "avg_margin_pct": 40.21,
+        "total_profit": 245057.04
+      }
+    ]
+  },
+  "chronological_insights": {
+    "lowest_revenue_month": {
+      "month": "Apr",
+      "net_revenue": 224535.67
+    },
+    "peak_revenue_month": {
+      "month": "Oct",
+      "net_revenue": 916198.54
+    },
+    "busiest_day_of_week": {
+      "day": "Monday",
+      "order_count": 1490
+    },
+    "monthly_breakdown": [
+      {
+        "month": "Jan",
+        "order_count": 578,
+        "net_revenue": 276802.37,
+        "gross_profit": 106943.37
+      },
+      {
+        "month": "Feb",
+        "order_count": 501,
+        "net_revenue": 268716.19,
+        "gross_profit": 99748.19
+      },
+      {
+        "month": "Mar",
+        "order_count": 558,
+        "net_revenue": 271414.94,
+        "gross_profit": 103703.94
+      },
+      {
+        "month": "Apr",
+        "order_count": 497,
+        "net_revenue": 224535.67,
+        "gross_profit": 88450.67
+      },
+      {
+        "month": "May",
+        "order_count": 534,
+        "net_revenue": 298474.49,
+        "gross_profit": 115652.99
+      },
+      {
+        "month": "Jun",
+        "order_count": 495,
+        "net_revenue": 268784.22,
+        "gross_profit": 102481.22
+      },
+      {
+        "month": "Jul",
+        "order_count": 548,
+        "net_revenue": 262137.6,
+        "gross_profit": 101237.1
+      },
+      {
+        "month": "Aug",
+        "order_count": 536,
+        "net_revenue": 276639.04,
+        "gross_profit": 108679.54
+      },
+      {
+        "month": "Sep",
+        "order_count": 649,
+        "net_revenue": 363966.18,
+        "gross_profit": 134496.68
+      },
+      {
+        "month": "Oct",
+        "order_count": 1732,
+        "net_revenue": 916198.54,
+        "gross_profit": 350109.04
+      },
+      {
+        "month": "Nov",
+        "order_count": 1613,
+        "net_revenue": 820614.4,
+        "gross_profit": 322949.4
+      },
+      {
+        "month": "Dec",
+        "order_count": 1759,
+        "net_revenue": 886003.28,
+        "gross_profit": 345505.78
+      }
+    ],
+    "day_of_week_breakdown": [
+      {
+        "day": "Monday",
+        "order_count": 1490,
+        "net_revenue": 820394.13
+      },
+      {
+        "day": "Tuesday",
+        "order_count": 1422,
+        "net_revenue": 710395.56
+      },
+      {
+        "day": "Wednesday",
+        "order_count": 1488,
+        "net_revenue": 787634.97
+      },
+      {
+        "day": "Thursday",
+        "order_count": 1407,
+        "net_revenue": 716764.24
+      },
+      {
+        "day": "Friday",
+        "order_count": 1415,
+        "net_revenue": 667578.86
+      },
+      {
+        "day": "Saturday",
+        "order_count": 1359,
+        "net_revenue": 730028.81
+      },
+      {
+        "day": "Sunday",
+        "order_count": 1419,
+        "net_revenue": 701490.35
+      }
+    ]
+  },
+  "regional_breakdown": [
+    {
+      "region": "Asia-Pacific",
+      "total_customers": 187,
+      "order_count": 4817,
+      "net_revenue": 2487780.64,
+      "gross_profit": 957292.64,
+      "profit_margin_pct": 38.48
+    },
+    {
+      "region": "North America",
+      "total_customers": 171,
+      "order_count": 3102,
+      "net_revenue": 1552483.77,
+      "gross_profit": 600101.27,
+      "profit_margin_pct": 38.65
+    },
+    {
+      "region": "Europe",
+      "total_customers": 120,
+      "order_count": 1747,
+      "net_revenue": 935247.19,
+      "gross_profit": 361515.69,
+      "profit_margin_pct": 38.65
+    },
+    {
+      "region": "Latin America",
+      "total_customers": 30,
+      "order_count": 334,
+      "net_revenue": 158775.31,
+      "gross_profit": 61048.31,
+      "profit_margin_pct": 38.45
+    }
+  ]
+}

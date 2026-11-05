@@ -1,0 +1,26 @@
+ProductID,ProductName,Category,UnitPrice,UnitCost
+PROD-E101,Ultra Pro Laptop 15-inch,Electronics,1299.99,850.0
+PROD-E102,Noise-Cancelling Headphones,Electronics,249.99,120.0
+PROD-E103,4K OLED Smart TV 55-inch,Electronics,899.99,580.0
+PROD-E104,Wireless Ergonomic Mouse,Electronics,49.99,18.0
+PROD-E105,Mechanical Gaming Keyboard,Electronics,129.99,60.0
+PROD-E106,Smartwatch Series 5,Electronics,349.99,190.0
+PROD-S201,Carbon Fiber Road Bike,Sports,1499.0,890.0
+PROD-S202,Pro Running Shoes Elite,Sports,160.0,65.0
+PROD-S203,Adjustable Dumbbell Set,Sports,299.99,140.0
+PROD-S204,Yoga Mat High Density,Sports,39.99,12.0
+PROD-S205,Waterproof Camping Tent,Sports,219.99,105.0
+PROD-S206,Thermal Hydration Flask,Sports,29.99,8.5
+PROD-F301,Italian Leather Jacket,Fashion,399.0,180.0
+PROD-F302,Slim Fit Denim Jeans,Fashion,79.99,28.0
+PROD-F303,Merino Wool Winter Sweater,Fashion,119.99,45.0
+PROD-F304,Casual Breathable Sneakers,Fashion,89.99,32.0
+PROD-F305,Polarized Designer Sunglasses,Fashion,149.99,40.0
+PROD-H401,Espresso Machine Pro,Home & Kitchen,599.99,340.0
+PROD-H402,Cast Iron Dutch Oven 6qt,Home & Kitchen,119.99,52.0
+PROD-H403,Smart Robotic Vacuum Cleaner,Home & Kitchen,399.99,210.0
+PROD-H404,Chef's Japanese Steel Knife Set,Home & Kitchen,189.99,75.0
+PROD-H405,Air Purifier HEPA Filtration,Home & Kitchen,149.99,70.0
+PROD-B501,Executive Hardbound Notebook Set,Books & Stationery,24.99,7.0
+PROD-B502,Data Science & AI Handbook,Books & Stationery,54.99,22.0
+PROD-B503,Luxury Fountain Pen Brass,Books & Stationery,69.99,25.0
